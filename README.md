@@ -6,7 +6,7 @@ Transfer money, take a loan, check the feed and change the accounts.
 
 ### How to log in?
 
-[Link]([https://www.google.com](https://gogetyourknife.github.io/bankist/))
+[Link](https://www.google.com](https://gogetyourknife.github.io/bankist/)
 
 ```
 User: js
