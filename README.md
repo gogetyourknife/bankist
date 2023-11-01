@@ -6,7 +6,7 @@ Transfer money, take a loan, check the feed and change the accounts.
 
 ### How to log in?
 
-[Link to the app](https://gogetyourknife.github.io/bankist "Bankist App")
+[Link to the app](https://stayonthemoon.github.io/bankist/)
 
 ```
 User: js
